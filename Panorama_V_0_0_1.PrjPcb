@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Panorama_V_0_0_1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JBUTRURN
-
-[Document2]
 DocumentPath=Panorama_V_0_0_1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,94 +55,77 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TWVMCFEA
 
-[Document3]
+[Document2]
 DocumentPath=Panorama_V_0_0_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IBUKWTDJ
 
-[Document4]
-DocumentPath=Panorama_V_0_0_1.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
+[Document3]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAEQGMMB
 
-[Document6]
+[Document4]
 DocumentPath=LAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFJEVZMN
 
-[Document7]
+[Document5]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACXTTOWH
 
-[Document8]
+[Document6]
 DocumentPath=ZOND_MOTOHEAD_V02.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPOGYFDE
 
-[Document9]
+[Document7]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Fuses.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,9 +225,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LOYPADTS
 
-[Document14]
+[Document12]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Leds.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Quartz.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document16]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Schematic\Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document18]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Footprints\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document19]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Footprints\Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Footprints\ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Footprints\Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,9 +395,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TKTPIHHV
 
-[Document24]
+[Document22]
 DocumentPath=C:\Users\rodio\Google Drive\LibsAltium\Footprints\SpektrAT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,8 +414,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
-DocumentPath=RS-485_422.SchDoc
+[Document23]
+DocumentPath=Panorama_V_0_0_1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -463,7 +429,58 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=STHXBYPB
+DocumentUniqueId=OLSTKBUJ
+
+[Document24]
+DocumentPath=mod.PDF
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=Zond_ctrl_v1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=Panorama_V_0_0_1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AOBNULHT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Panorama_V_0_0_1\Panorama_V_0_0_1.xlsx
@@ -1485,17 +1502,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Switches.SchLib
-ComponentDesignItemID0=D2HW-BL221DL
-ComponentSymbolReference0=D2HW-BL221DL
+ComponentLibraryIdentifier0=ICs.SchLib
+ComponentDesignItemID0=LAN8710A-EZC
+ComponentSymbolReference0=LAN8710A-EZC
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Switches.SchLib
-ComponentDesignItemID1=D2HW-BR221DR
-ComponentSymbolReference1=D2HW-BR221DR
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1509,28 +1520,33 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
+ParameterName0=Built_By
 ParameterUpdate0=1
-ParameterName1=Component Kind
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Description
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=HelpUrl
+ParameterName3=Copyright
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=Supplier 1
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=Supplier Part Number 1
+ParameterName6=Manufacturer_Part_Number
 ParameterUpdate6=1
+ParameterName7=RefDes
+ParameterUpdate7=1
+ParameterName8=SourceLibrary
+ParameterUpdate8=1
+ParameterName9=Type
+ParameterUpdate9=1
+ParameterName10=Vendor
+ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=D2HW
+ModelName0=QFN32_5X5MC_MCH
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=D2HW-R
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
