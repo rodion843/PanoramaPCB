@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Panorama_V_0_0_1.SchDoc
+Record=SheetSymbol|SourceDocument=Panorama_V_0_0_1.SchDoc|Designator=U_LAN|SchDesignator=U_LAN|FileName=LAN.SchDoc|SymbolType=Normal|RawFileName=LAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Panorama_V_0_0_1.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Panorama_V_0_0_1.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

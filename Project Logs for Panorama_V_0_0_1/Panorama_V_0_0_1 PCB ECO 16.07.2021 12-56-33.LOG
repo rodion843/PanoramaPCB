@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DIAG Pin=DD1-64
+Removed Pin From Net: NetName=SPREAD Pin=DD1-65
+Removed Pin From Net: NetName=E\N\A\B\L\E\_Step Pin=DD1-66
+Added Pin To Net: NetName=DIAG Pin=DD1-60
+Added Pin To Net: NetName=SPREAD Pin=DD1-61
+Added Pin To Net: NetName=E\N\A\B\L\E\_Step Pin=DD1-62

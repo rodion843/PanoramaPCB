@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GR_A Pin=D1-1
+Removed Pin From Net: NetName=GR_K Pin=D1-2
+Removed Pin From Net: NetName=YL_A Pin=D2-1
+Removed Pin From Net: NetName=YL_K Pin=D2-2
+Removed Pin From Net: NetName=RX_P Pin=X1-3
+Removed Pin From Net: NetName=RX_N Pin=X1-4
+Removed Member From Class: ClassName=Panorama_V_0_0_1 Member=D1
+Removed Member From Class: ClassName=Panorama_V_0_0_1 Member=D2
+Change Component Footprint: Designator=X1 Old Footprint=B4B-PH-K-S New Footprint=LU1T516-43
+Change Component Comment : Designator=X1 Old Comment=B4B-PH-K-S New Comment=LU1T516-43
+Change component parameters: Designator = "L2" ("L2"); Footprint = "VLCF4020T"; UniqueID = "\GSTGSMSC\XFIZNSEX" ("\GSTGSMSC\XFIZNSEX")
+Change component parameters (AddParameter): Name = "Current"; Value = "0.85A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpUrl"; Value = "\\Storage\Volume_2\SPEKTR-AT\Catalogs\Tdk\Inductors\vlcf4020.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-3186-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "B4B-PH-K-S"; UniqueID = "\RDLVGDXE" ("\RDLVGDXE")
+Added Pin To Net: NetName=CT3 Pin=X1-3
+Added Pin To Net: NetName=CT3 Pin=X1-6
+Added Pin To Net: NetName=RX_P Pin=X1-7
+Added Pin To Net: NetName=RX_N Pin=X1-8
+Added Pin To Net: NetName=GR_A Pin=X1-9
+Added Pin To Net: NetName=GR_K Pin=X1-10
+Added Pin To Net: NetName=YL_A Pin=X1-11
+Added Pin To Net: NetName=YL_K Pin=X1-12
+Added Pin To Net: NetName=GND_C Pin=X1-13
+Added Pin To Net: NetName=GND_C Pin=X1-14
+Added Net: Name=GND_C
