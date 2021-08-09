@@ -1,0 +1,64 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Panorama_V_0_0_1.PcbDoc   16.07.2021  14:06:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Panorama_V_0_0_1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             2         PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             22        PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             11        PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             12        PTH        0.00mm (0.00inch)
+T6      1.02mm (40mil)                                            Round             4         PTH        0.00mm (0.00inch)
+T7      1.5mm (59mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T8      1.8mm (71mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T9      2mm (79mil)                                               Round             4         PTH        0.00mm (0.00inch)
+T10     3.3mm (130mil)                                            Round             2         PTH        0.00mm (0.00inch)
+T11     2.5mm (98mil)                                             Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              69
+Layer Pair : Top Layer to Layer 2
+ASCII RoundHoles File : Panorama_V_0_0_1.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             17        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             3         PTH        0.00mm (0.00inch)
+T3      0.711mm (28mil)                                           Round             2         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              22
+Layer Pair : Top Layer to Layer 3
+ASCII RoundHoles File : Panorama_V_0_0_1.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             21        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             49        PTH        0.00mm (0.00inch)
+T3      0.711mm (28mil)                                           Round             35        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              105
+Layer Pair : Layer 2 to Bottom Layer
+ASCII RoundHoles File : Panorama_V_0_0_1.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             15        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              16
+Layer Pair : Layer 3 to Bottom Layer
+ASCII RoundHoles File : Panorama_V_0_0_1.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             23        PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T3      0.711mm (28mil)                                           Round             7         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              31
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              243
+
+Total Processing Time (hh:mm:ss) : 00:00:01

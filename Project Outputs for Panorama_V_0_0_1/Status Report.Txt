@@ -1,0 +1,16 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Panorama_V_0_0_1.PrjPcb]
+   Generated File[Panorama_V_0_0_1.TXT]
+   Generated File[Panorama_V_0_0_1.TX1]
+   Generated File[Panorama_V_0_0_1.TX2]
+   Generated File[Panorama_V_0_0_1.TX3]
+   Generated File[Panorama_V_0_0_1.TX4]
+   Generated File[Panorama_V_0_0_1.LDP]
+   Generated File[Panorama_V_0_0_1.DRR]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 14:06:46 On 16.07.2021
